@@ -4,7 +4,7 @@ Tags recommender system for the community forums. Works for forums like Stack Ov
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailikhithk/Tags-recommender-system-for-community-forums)
 
-[Dataset](./webscraping_stack4.xlsx)
+
 
 I was intrigued going through this amazing article on building a multi-label image classification model last week. The data scientist enthusiast in me started exploring possibilities of transforming this idea into a Natural Language Processing (NLP) problem.
 
