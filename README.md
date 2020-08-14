@@ -1,6 +1,6 @@
 # Tags-recommender-system-for-community-forums
 Tags recommender system for the community forums. Works for forums like Stack Overflow, Stack Exchange, Discourse, Codechef etc.,.  
-# Project :
+## Project
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailikhithk/Tags-recommender-system-for-community-forums)
 
