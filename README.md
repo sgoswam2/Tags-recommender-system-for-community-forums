@@ -1,5 +1,11 @@
 # Tags-recommender-system-for-community-forums
 Tags recommender system for the community forums. Works for forums like Stack Overflow, Stack Exchange, Discourse, Codechef etc.,.  
+
+## Project Collaborators:
+Architecture and Project Planning - Saad Ahmad and Somya Goswami
+Active Learning - Saad Ahmad
+Tag Recommender with TF-IDF with Neural Networks - Hui Wen
+Tag Recommender integration with Active Learning loop, Streamlit Deployment and AWS migration - Sai Likhith
 ## Project Demo
 
 ![](./demo-C.gif)
