@@ -2,7 +2,7 @@
 Tags recommender system for the community forums. Works for forums like Stack Overflow, Stack Exchange, Discourse, Codechef etc.,.  
 
 ## Project Collaborators:
-1. Architecture and Project Planning - Saad Ahmad and Somya Goswami
+1. Architecture and Project Planning - Saad Ahmad and Soumya Goswami
 2. Deep Learning SME - Somya Goswami
 3. Active Learning - Saad Ahmad
 4. Tag Recommender with TF-IDF with Neural Networks - Hui Wen
